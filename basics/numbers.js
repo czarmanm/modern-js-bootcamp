@@ -1,3 +1,4 @@
-let num = 34
-
-console.log('Num', num);
+let studentScore = 18
+let maxScore = 20
+let percent = studentScore / maxScore * 100
+console.log('Score', percent);
